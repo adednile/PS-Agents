@@ -4,7 +4,7 @@ P (Performative Measure) - Reach Kisumu safely, minimize travel time and distanc
 E (Environment) - Kenya’s highway network\
 A (Actuators) - Steering system, accelerator, brakes, gear controls, indicators and other vehicle-control mechanisms.
 GPS for location, cameras for road signs and lane markings\
-S (Sensors) - GPS for location, cameras for road signs and lane markings, weather sensors, road-condition sensors, speedometer and wheel sensors\
+S (Sensors) - GPS for location, cameras for road signs and lane markings, weather sensors, road-condition sensors, speedometer and wheel sensors
 
 Agent Environments\
 1. Fully observable vs. partially observable
