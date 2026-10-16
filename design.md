@@ -60,6 +60,7 @@ Level 0 (Initial State):
     │       │   └── Kisumu [GOAL STATE] [Cumulative Cost: 348 km]
     │       └── Eldoret [Cumulative Cost: 286 km]
     │           └── Kisumu [GOAL STATE] [Cumulative Cost: 403 km]
+
 ```
 
 #Question 3:
